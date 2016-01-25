@@ -36,3 +36,8 @@ body{
 .new:hover{
     background-color: #c0392b;
 }
+
+.twitter{
+    color:white;
+    text-align: center;
+}

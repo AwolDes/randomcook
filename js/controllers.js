@@ -7,6 +7,9 @@ angular.module('app.controllers', [])
     })*/
     var recipeList = {
         
+        
+        
+        
         "recipes":[
             {
                 "id":1,
